@@ -1,0 +1,69 @@
+{
+  "especialidades": [
+    {
+      "nome": "Cardiologia",
+      "profissionais": [
+        {
+          "nome": "Dr. Ricardo Sousa",
+          "disponibilidade": "Segunda e Quarta"
+        },
+        {
+          "nome": "Dra. Fernanda Gomes",
+          "disponibilidade": "Terca e Quinta"
+        }
+      ]
+    },
+    {
+      "nome": "Nutricao",
+      "profissionais": [
+        {
+          "nome": "Dr. Carlos Peixoto",
+          "disponibilidade": "Segunda a Sexta"
+        },
+        {
+          "nome": "Dra. Patricia Faria",
+          "disponibilidade": "Quarta e Sexta"
+        }
+      ]
+    },
+    {
+      "nome": "Dermatologia",
+      "profissionais": [
+        {
+          "nome": "Dra. Sofia Castelo",
+          "disponibilidade": "Segunda, Quarta e Sexta"
+        },
+        {
+          "nome": "Dr. Lucas Martins",
+          "disponibilidade": "Terca e Quinta"
+        }
+      ]
+    },
+    {
+      "nome": "Pediatria",
+      "profissionais": [
+        {
+          "nome": "Dra. Isabela Freitas",
+          "disponibilidade": "Segunda a Sexta"
+        },
+        {
+          "nome": "Dr. Joao Neves",
+          "disponibilidade": "Terca e Quinta"
+        }
+      ]
+    },
+    {
+      "nome": "Ortopedia",
+      "profissionais": [
+        {
+          "nome": "Dr. Marcelo Barros",
+          "disponibilidade": "Segunda a Quinta"
+        },
+        {
+          "nome": "Dra. Camila Porto",
+          "disponibilidade": "Quarta e Sexta"
+        }
+      ]
+    }
+  ]
+}
